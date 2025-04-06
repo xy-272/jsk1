@@ -83,4 +83,4 @@ Mode 0 is stable.
 Mode 1 is unstable.  
 '''
 您将看到状态 x1 和 x2 随时间变化的图形。
-![jsk]()
+![jsk](jsk.png)
