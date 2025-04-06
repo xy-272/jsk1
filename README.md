@@ -10,6 +10,7 @@
 pip install numpy matplotlib scipy
 ```
 ## 代码
+```
 import numpy as np  
 import matplotlib.pyplot as plt  
 from scipy.linalg import expm  
@@ -68,4 +69,4 @@ stable_mode_1 = lyapunov_stability_check(A1)
 
 print(f"Mode 0 is {'stable' if stable_mode_0 else 'unstable'}.")  
 print(f"Mode 1 is {'stable' if stable_mode_1 else 'unstable'}.")  
-  
+```  
