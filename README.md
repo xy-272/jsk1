@@ -72,6 +72,7 @@ print(f"Mode 1 is {'stable' if stable_mode_1 else 'unstable'}.")
 ```  
 ## 运行说明
 1.将以上代码粘贴到一个Python文件中，比如 switching_system.py。
+
 2.在终端运行代码：
 ```
 python switching_system.py  
@@ -83,4 +84,4 @@ Mode 0 is stable.
 Mode 1 is unstable.  
 ```
 您将看到状态 x1 和 x2 随时间变化的图形。
-![jsk](111,jpg)
+![jsk](111.jpg)
